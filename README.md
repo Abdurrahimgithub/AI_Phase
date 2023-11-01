@@ -1,5 +1,13 @@
 #  Fake News Detection Using  NLP
 
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)<br>
+<img title="a title" alt="Alt text" src="https://raw.githubusercontent.com/Abdurrahimgithub/AI_Phase/b7e7a89d2673977274540fbdf524d71a342a0b6c/AI_Phase5/Source%20Code/Image/Made%20With%20-Python-.svg">
+<img title="a title" alt="Alt text" src="https://raw.githubusercontent.com/Abdurrahimgithub/AI_Phase/ca6267eb42122254754c02b82400abbfe7615341/AI_Phase5/Source%20Code/Image/Python-3.12-.svg"><br>
+![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
+![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+
 <img title="a title" alt="Alt text" src="https://media.licdn.com/dms/image/D5605AQFeAbKNlyhrIw/videocover-low/0/1695299034890?e=2147483647&v=beta&t=5nq9k620cfBSI1hYBXiZNx0hvlrCAb5GBuJef2WL3Zs">
 
 # AI_Phase
