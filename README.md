@@ -1,7 +1,6 @@
 #  Fake News Detection Using  NLP
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)<br>
-<img title="a title" alt="Alt text" src="https://raw.githubusercontent.com/Abdurrahimgithub/AI_Phase/b7e7a89d2673977274540fbdf524d71a342a0b6c/AI_Phase5/Source%20Code/Image/Made%20With%20-Python-.svg">
 <img title="a title" alt="Alt text" src="https://raw.githubusercontent.com/Abdurrahimgithub/AI_Phase/ca6267eb42122254754c02b82400abbfe7615341/AI_Phase5/Source%20Code/Image/Python-3.12-.svg"><br>
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
