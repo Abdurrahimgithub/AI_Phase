@@ -5,7 +5,7 @@
 # AI_Phase
 This is Fake News Detection Phase Project Document in IBM NAAN MUDHALVAN
 
-# 4 Phases 
+# Phase Of Development 
 - **AI_Phase1**
     * AI_Phase1.pdf
 - **AI_phase2**
