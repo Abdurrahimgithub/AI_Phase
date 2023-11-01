@@ -3,7 +3,7 @@
 <img title="a title" alt="Alt text" src="https://media.licdn.com/dms/image/D5605AQFeAbKNlyhrIw/videocover-low/0/1695299034890?e=2147483647&v=beta&t=5nq9k620cfBSI1hYBXiZNx0hvlrCAb5GBuJef2WL3Zs">
 
 # AI_Phase
-This is Fake News Detection Phase-1 Project Document in IBM NAAN MUDHALVAN
+This is Fake News Detection Phase Project Document in IBM NAAN MUDHALVAN
 
 # 4 Phases 
 - **AI_Phase1**
