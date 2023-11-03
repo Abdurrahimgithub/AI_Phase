@@ -31,6 +31,8 @@ The datasets were obtained from [Dataset Source Link](https://www.kaggle.com/dat
 
 The project code and files are organized as follows:
 
+**Project Path:** `AI_Phase5/Source code/`
+
 - `Jupyter notebook/dataset/`: Directory containing the datasets `true.csv` and `fake.csv`.
 - `jupyter notebooks/`: Jupyter notebooks for data preprocessing, model training, and evaluation.
 - `static/`: Saved css files.
