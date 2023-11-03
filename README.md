@@ -9,6 +9,46 @@
 
 <img title="a title" alt="Alt text" src="https://media.licdn.com/dms/image/D5605AQFeAbKNlyhrIw/videocover-low/0/1695299034890?e=2147483647&v=beta&t=5nq9k620cfBSI1hYBXiZNx0hvlrCAb5GBuJef2WL3Zs">
 
+## Project Overview
+
+**This project aims to build a machine learning model for the detection of fake news articles using Natural Language Processing (NLP) techniques. The model will analyze textual data from news articles and classify them as either "real" or "fake." This README file provides an overview of the project, details about the dataset used, and submission information.**
+
+## Dataset
+
+### Dataset Description
+
+The project utilizes two datasets:
+1. `true.csv`: A dataset containing real news articles.
+2. `fake.csv`: A dataset containing fake news articles.
+
+Each dataset includes columns for the article title, text, subject, and date.
+
+### Dataset Source
+
+The datasets were obtained from [Dataset Source Link](https://www.kaggle.com/datasets/clmentbisaillon/fake-and-real-news-dataset).
+
+## Code and Project Structure
+
+The project code and files are organized as follows:
+
+- `AI_Phase5/Source code/jupyter notebook/dataset/`: Directory containing the datasets `true.csv` and `fake.csv`.
+- `AI_Phase5/Source code/jupyter notebook/`: Jupyter notebooks for data preprocessing, model training, and evaluation.
+- `templates/`: Saved html and javascript files
+-  `static/`: Saved css file
+- `README.md`: This documentation file.
+- `requirements.txt`: List of Python packages and dependencies required for the project.
+- `main.py`: The main Python script for executing the project.
+
+## Running the Project
+
+To run the project, follow these steps:
+
+1. Clone this repository to your local machine.
+2. Navigate to the project directory.
+3. Ensure you have the required packages by running:
+   ```bash
+   pip install -r requirements.txt
+   python main.py
 # AI_Phase
 This is Fake News Detection Phase Project Document in IBM NAAN MUDHALVAN
 
